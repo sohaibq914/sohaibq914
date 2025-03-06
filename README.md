@@ -28,8 +28,10 @@ I'm an undergraduate CS student with a specialization in software engineering. I
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
+
 #
 
-📊 Stats
+
+### 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaibq914&show_icons=true&theme=gruvbox)
