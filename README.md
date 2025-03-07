@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Sohaib Qureshi
 
 **`🌱 Lifelong Learner`**  
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohaibq914/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/sohaibq914/)
 I'm an undergraduate CS student with a specialization in software engineering and interning at Indiana Farm Bureau Insurance. I'm passionate about web development, mobile apps, and design that helps real people.
 
 - 🔭 I’m currently working on creating a shell  
