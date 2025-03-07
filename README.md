@@ -1,13 +1,19 @@
 # Hi there 👋, I'm Sohaib Qureshi
 
 **`🌱 Lifelong Learner`**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohaibq914/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/sohaibq914/)
+
 I'm an undergraduate CS student with a specialization in software engineering and interning at Indiana Farm Bureau Insurance. I'm passionate about web development, mobile apps, and design that helps real people.
 
 - 🔭 I’m currently working on creating a shell  
 - 🌱 I’m currently learning Spring Boot and SQL  
-- 📫 How to reach me: **sohaibq914@gmail.com**  
+- 📫 How to reach me: **sohaibq914@gmail.com**
+
+<a href="https://linkedin.com/in/sohaibq914">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+<a href="https://www.leetcode.com/sohaibq914">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+</a>
 
 ---
 
