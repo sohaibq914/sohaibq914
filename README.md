@@ -2,7 +2,7 @@
 
 **`🌱 Lifelong Learner`**  
 
-I'm an undergraduate CS student with a specialization in software engineering and interning at Indiana Farm Bureau Insurance. I'm passionate about web development, mobile apps, and design that helps real people.
+I'm an undergraduate CS student with a specialization in software engineering. I'm passionate about web development, mobile apps, and design that helps real people.
 
 - 🔭 I’m currently working on creating a shell  
 - 🌱 I’m currently learning Spring Boot and SQL  
